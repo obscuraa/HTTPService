@@ -1,7 +1,8 @@
 # Default ignored files
 /workspace.xml
-.idea/
+
+# IntellijIdea files
 *.iml
-*.iws
-out/
-artifacts/
+.idea
+out
+.gitignore
